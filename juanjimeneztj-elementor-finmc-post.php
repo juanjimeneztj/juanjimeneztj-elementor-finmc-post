@@ -2,7 +2,7 @@
 /**
  * Plugin Name: JUANJIMENEZTJ Posts FinMC/SIP Extension
  * Description: Custom Elementor extension/plugin to display articles on websites related to the company Sir Isaac Publishing/Financial Media Corp. By Juan Jimenez.
- * Plugin URI:  https://juanjimeneztj.com/
+ * Plugin URI:  https://github.com/juanjimeneztj/juanjimeneztj-elementor-finmc-post
  * Version:     1.0.4
  * Author:      Juan Jimenez
  * Author URI:  https://juanjimeneztj.com/
